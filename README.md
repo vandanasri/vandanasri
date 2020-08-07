@@ -1,10 +1,10 @@
 ### <code>fun main() { println("Hello 👋") }</code>
 
 - 🌱 I’m currently learning Kotlin.
-- 🤔 I’m looking for full time Android development job, please help
+- 🤔 I’m looking for full time Android development job.
 - 💬 Ask me about Android Development or any tech related stuff.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love listening music
+- ⚡ Fun fact: I love listening music.
 
 
 **Languages and Tools:**  
