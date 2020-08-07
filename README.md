@@ -27,14 +27,11 @@
 </a>
 
 <br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandanasri&label=Views&color=blueviolet&style=plastic" alt="vandanasri" /> </p>
 
-<div align="center">
-
 #### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 <p align="left">
 <a href="https://twitter.com/ask_vandana">
