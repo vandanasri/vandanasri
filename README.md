@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandanasri&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/vandanasri">
- <img align="center" src="https://github-readme-stats-git-master-vandanas-projects-7113dbf7.vercel.app/api?username=vandanasri&include_all_commits=true&show_icons=true&cache_seconds=2160&hide=prs,contribs,issues&theme=dark" alt="Vandana's github stats"/>
+ <img align="center" src="https://github-readme-stats-git-master-vandanas-projects-7113dbf7.vercel.app/api?username=vandanasri&include_all_commits=true&show_icons=true&hide=prs,contribs,issues&theme=dark" alt="Vandana's github stats"/>
 </a>
 <a href="https://github.com/vandanasri/MVVM-Sample-Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandanasri&repo=MVVM-Sample-Android&theme=dark" />
