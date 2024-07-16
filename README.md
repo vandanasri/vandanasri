@@ -47,7 +47,7 @@ OR
 <a href="https://linkedin.com/in/androidexpertvandana">
   <img align="left" alt="Vandana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@sri.vandana87">
+<a href="https://vandroidsri.medium.com/">
   <img align="left" alt="Vandana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://blog.mindorks.com/user/profile/id/17193">
