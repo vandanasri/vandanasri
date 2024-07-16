@@ -1,7 +1,9 @@
-### <code>fun main() { println("Hello 👋") }</code>
+### <code>fun main() { print("Hello 👋") }</code>
+OR 
+### <code> print("Hi 👋") </code>
 
-- 🌱 I’m currently learning Kotlin, Python & Data Science.
-- 💬 Ask me about Android Development or any tech related stuff.
+- 🌱 I’m currently learning Python & Data Science.
+- 💬 Ask me about Data Science, Android Development or any tech related stuff.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening music.
 
@@ -22,9 +24,8 @@
 <a href="https://github.com/vandanasri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandanasri&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/vandanasri">
- <img align="center" src="https://github-readme-stats-git-master-vandanas-projects-7113dbf7.vercel.app/api?username=vandanasri&include_all_commits=true&show_icons=true&hide=prs,contribs,issues&theme=dark" alt="Vandana's github stats"/>
-</a>
+<br/>
+<br/>
 <a href="https://github.com/vandanasri/MVVM-Sample-Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandanasri&repo=MVVM-Sample-Android&theme=dark" />
 </a>
