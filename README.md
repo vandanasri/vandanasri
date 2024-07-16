@@ -50,7 +50,13 @@ OR
 <a href="https://vandroidsri.medium.com/">
   <img align="left" alt="Vandana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://blog.mindorks.com/user/profile/id/17193">
+<a href="https://blog.mindorks.com/dependency-injection-with-dagger2/">
+  <img align="left" alt="Vandana's Mindorks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" /
+</a>
+<a href="https://blog.mindorks.com/dependency-injection-with-dagger2-advance/">
+  <img align="left" alt="Vandana's Mindorks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" /
+</a>
+<a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android/">
   <img align="left" alt="Vandana's Mindorks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" /
 </a>
 
